@@ -7,6 +7,7 @@ import  SectionWrapper  from "../hoc/SectionWrapper";
 import { projects } from "../constantes";
 import { fadeIn, textVariant } from "../utils/motion";
 
+// eslint-disable-next-line react-refresh/only-export-components
 const ProjectCard = ({
   index,
   name,

@@ -2,6 +2,7 @@ import { BallCanvas } from "./canvas";
 import  SectionWrapper  from "../hoc/SectionWrapper";
 import { technologies } from "../constantes";
 
+// eslint-disable-next-line react-refresh/only-export-components
 const Tech = () => {
   return (
     <div className='flex flex-row flex-wrap justify-center gap-10'>
@@ -14,4 +15,5 @@ const Tech = () => {
   );
 };
 
+// eslint-disable-next-line react-refresh/only-export-components
 export default SectionWrapper(Tech, "");
