@@ -19,3 +19,9 @@ Hi, I’m Badini, i'm a skilled software developer with experience in TypeScript
 - Beautiful layouts with TailwindCSS
 - canevas
 
+## Contributors
+
+<a href="https://github.com/badiniibrahim/badini-portfolio/graphs/contributors">
+  <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=badiniibrahim/badini-portfolio" />
+</a>
+
