@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import flutter from './tech/flutter.png'
+import flutter from "./tech/flutter.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -30,7 +30,6 @@ import uppli from "./company/uppli.png";
 import bloc from "./company/bloc.png";
 import ifeelsmart from "./company/ifeelsmart.png";
 import aleda from "./company/aleda.png";
-
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -48,16 +47,9 @@ import voiture from "./voiture.png";
 import loct from "./loct.png";
 import cry from "./cry.png";
 import mob from "./mob.png";
-
-
-
-
-
-
-
-
-
-
+import snapevent from "./snapevent.png";
+import anime from "./anime.jpeg";
+import fitfolio from "./fit.jpg";
 
 export {
   logo,
@@ -105,5 +97,8 @@ export {
   voiture,
   loct,
   cry,
-  mob
+  mob,
+  snapevent,
+  anime,
+  fitfolio,
 };
